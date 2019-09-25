@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+
+        <!-- jQuery library -->
+        <script src="js/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+        <!-- Latest compiled JavaScript -->
+        <script src="js/bootstrap.min.js"></script>
+        <script src='popup.js'></script>
+    </head>
+    <body style="width:400px;height:auto;background-color:#eee;margin-top:60px;">
+        <div style="text-align: center;padding: 5px;background-color: #fff;position: fixed;top: 0;width: 100%;box-shadow: 1px 0 20px #aaa;z-index:9999">
+            <img src = "images/drumup-logo-black.png">
+        </div>
+        <div id='message'></div>
+        <div id="suggested-posts"></div>
+        <div style="padding: 15px;text-align: center;margin-top:-3%;color:#fff;background:#ffffff url('https://s3-us-west-2.amazonaws.com/aso1/img/promo-bg.jpg') no-repeat;display:none" id="login-layer">
+                <h3 class="title" style="max-width: 100%;font-size:150%;margin-top:2%">World's #1 Social Media and Content Marketing App</h2>
+                <p class="summary" style="max-width: 100%;margin-top:30px">Sign in to Get Started (it's free)</p>
+                <a href=" https://drumup.io/login/twitter" id="post_link" style="display:block;margin-left:auto;margin-right:auto;margin-top:25px;width:200px"><img src="https://s3-us-west-2.amazonaws.com/aso1/img/twitter-login.png" width="200" class="img-rounded" height="40" alt="twitter login" ></a>
+                <a href="https://drumup.io/login/facebook" id="post_link" style="display:block;margin-left:auto;margin-right:auto;margin-top:25px;width:200px"><img src="https://s3-us-west-2.amazonaws.com/aso1/img/facebook-login.png" width="200" class="img-rounded" height="40" alt="facebook login" ></a>
+                <a href="https://drumup.io/login/linkedin" id="post_link" style="display:block;margin-left:auto;margin-right:auto;margin-top:25px;width:200px;padding-bottom: 15px"><img src="https://s3-us-west-2.amazonaws.com/aso1/img/linkedin-login.png" width="200" class="img-rounded" height="40" alt="linkedin login" ></a>
+            </div>
+        <div style="padding: 15px;text-align: center;margin-top:-3%;background:#ffffff;display:none" id="timeout-layer" >
+                <h6 class="title" style="max-width: 100%;font-size:150%;margin-top:2% font-color:#000">Communication error. Please try again later</h6>
+                <h5><a id="timeout-text">try again</a><h5>
+            </div>
+    </body>
+</html>
