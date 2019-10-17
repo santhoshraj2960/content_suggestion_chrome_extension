@@ -13,4 +13,4 @@ DrumUp Chrome extension doubles up as a great content discovery resource on your
 **Endless resource for finding interesting content from around the web**
 You can find tons of great, fresh content suggestions without having to search by keywords. On DrumUp Chrome extension, you get content suggestions on similar themes as your existing article from within the extension. The extension becomes your research assistant and gives you hours of great reading material.
 
-https://lh3.googleusercontent.com/GTocoysaKqB3zxqAEHlD7CLQRmqBTGH-F2tvoQBduY7y447vfComYzpw7T9ql9nwEMSqzuh_zBI=w640-h400-e365
+![Image of Content suggested by extension](https://lh3.googleusercontent.com/GTocoysaKqB3zxqAEHlD7CLQRmqBTGH-F2tvoQBduY7y447vfComYzpw7T9ql9nwEMSqzuh_zBI=w640-h400-e365)
