@@ -1,6 +1,7 @@
 # content_suggestion_chrome_extension
 
 Link to the extension: https://chrome.google.com/webstore/detail/drumup/hdbkcjlhppelfoljjhfkgaeffmamkmcb?hl=en-US
+
 Informative links: https://drumup.io/chrome-extension
 
 ![Image of Content suggested by extension](https://lh3.googleusercontent.com/GTocoysaKqB3zxqAEHlD7CLQRmqBTGH-F2tvoQBduY7y447vfComYzpw7T9ql9nwEMSqzuh_zBI=w640-h400-e365)
